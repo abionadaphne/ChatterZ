@@ -42,7 +42,7 @@ def on_closing(event=None):
     send()
 
 top = tkinter.Tk()
-top.title("ChatterX")
+top.title("ChatterZ")
 
 messages_frame = tkinter.Frame(top)
 my_msg = tkinter.StringVar()
